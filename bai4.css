@@ -1,0 +1,19 @@
+.inline-block{
+    border: 1px solid #ccc;
+    width: 250px;
+    padding: 15px;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 16px;
+}
+.box{
+    background-color: #f4f8f6;
+    width: 950px;
+    text-align: center;
+}
+.title{
+    color: #1fceff;
+    font-weight: bold;
+}

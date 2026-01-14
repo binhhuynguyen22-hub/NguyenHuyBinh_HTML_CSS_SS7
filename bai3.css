@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner{
+    border: 1px solid black;
+    width: 520px;
+    height: 520px;
+    margin-left: 10px;
+}
+.title{
+    color: #ff6600;
+    margin-left: 10px;
+}
+.name{
+    color: #1eff29;
+    margin-left: 10px;
+}
+.name1{
+    margin-left: 10px;
+}
+.content{
+    margin-left: 10px;
+    font-size: larger;
+}
+img{
+    width: 519px;
+    height: 351px;
+}

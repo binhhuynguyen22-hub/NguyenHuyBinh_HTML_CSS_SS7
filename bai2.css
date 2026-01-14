@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.service-card{
+    border-radius: 10px;
+    border: 2px solid #1eff29;
+    width: 300px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 600px;
+}
+.title{
+    line-height: 40px;
+}
+.slogan{
+    line-height: 50px;
+}

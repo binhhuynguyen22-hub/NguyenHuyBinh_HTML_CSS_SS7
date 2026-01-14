@@ -1,0 +1,183 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+}
+.banner {
+    background: linear-gradient(
+    to right,
+    rgb(19, 36, 63, 1),
+    rgb(21, 94, 191, 1)
+  );
+    padding:50px 400px;
+    color: #fff;
+}
+
+.block {
+}
+
+.button-tag {
+    height: 40px;
+    padding: 0 8px;
+    border: 1px solid #66778f;
+    border-radius: 20px;
+    background-color: transparent;
+    color: #fff;
+}
+
+.slogan {
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.des {
+    width: 670px;
+    color: #e3e7ec;
+    margin-bottom: 24px;
+}
+
+.navigates {
+    margin-bottom: 22px;
+
+}
+
+.button-primary {
+    height: 50px;
+    padding: 0 16px ;
+    border-radius: 40px;
+    color: #fff;
+    background-color: #1373e8;
+    border: 1px solid transparent;
+    cursor: pointer;
+}
+.button-primary:first-child{
+    margin-right: 4px;
+    transition: all 0.5s linear;
+}
+.button-primary:first-child:hover{
+    transform: translateY(-5px);
+}
+.butt{
+    height: 50px;
+    padding: 0 16px ;
+    border-radius: 40px;
+    color: #fff;
+    background-color: #1373e8;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: all 0.5s linear;
+
+}
+.butt:hover{
+    transform: translateY(-5px);
+    background-color: #415676;
+
+}
+.overview {
+
+}
+
+.card {
+    padding: 20px 16px ;
+    border: 1px solid #415676;
+    width: 200px;
+    border-radius: 16px;
+    transition: all 0.5s linear;
+}
+.card:hover{
+    transform: translateY(-10px);
+}
+
+.count {
+}
+
+.number {
+}
+
+.title {
+}
+
+.main {
+    
+}
+
+.serice {
+    
+}
+.decreption{
+    margin-left: 403px;
+    height: 35px;
+}
+
+.heading {
+    height: 30px;
+    margin-top: 48px;
+    width: 405px;
+    margin-left: 403px;
+
+}
+
+.service-item {
+    border: 1px solid #e6eef8;
+    width: 800px;
+    border-radius: 16px;
+    margin-left: 403px;
+    padding: 20px 30px;
+    transition: all 0.2s linear;
+    margin-bottom: 50px;
+    height: 160px;
+
+}
+.service-item:hover{
+    transform: translateY(-10px);
+}
+.li{
+    margin-left: 16px;
+}
+.price{
+    cursor: pointer;
+    transition: all 0.5s linear;
+}
+.price:hover{
+    transform: translateX(50px);
+}
+
+.tag-hot {
+    border: 1px solid #b2cff7;
+    border-radius: 16px;
+    color: #1a73e8;
+    width: 47px;
+    text-align: center;
+    font-weight: bold;
+}
+.tag-hot{
+    transform: translate(700px);
+}
+
+.service-name {
+
+}
+.ul li{
+    padding: auto;
+}
+.decreption-item {
+}
+
+a{
+    color: #1a73e8;
+    text-decoration-line: none;
+    transition: all 0.5 linear;
+}
+a:hover{
+    transform: translateX(10px);
+    cursor: pointer;
+}
+.footer {
+    margin-left: 403px;
+}
+
